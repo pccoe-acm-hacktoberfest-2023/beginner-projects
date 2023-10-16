@@ -9,7 +9,7 @@
 1. Fork this repo (button on top)
 1. Clone on your local machine
    ```sh
-       git clone https://github.com/your-username/animated-components.git
+   git clone https://github.com/your-username/animated-components.git
    ```
 1. Navigate to project directory.
 1. ```sh
@@ -21,7 +21,7 @@
    ```
 1. Stage the changes
    ```sh
-    git add .
+   git add .
    ```
 1. Commit your changes
    ```sh
